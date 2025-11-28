@@ -8,12 +8,6 @@
  * This script MUST be executed via the **psql** command-line interface.
  * The \copy command requires client-side execution to read local files.
  *
- * OWNERSHIP:
- * DATA STEWARD: [Your Team/Group Name, e.g., Data Engineering - Ingestion]
- *
- * CHANGE LOG:
- * [2025-11-28] - [Your Name] - Initial creation. Added loads for crm_cust_info
- * and sales_transactions tables.
  *
  * USAGE INSTRUCTIONS:
  * 1. Ensure all CSV files are accessible to the user running psql.
